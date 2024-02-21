@@ -5,3 +5,6 @@
 - Print function
 - Input function
 - Variables
+## Day 2
+- Data types : Integer, Float, String, Boolean
+- Type Casting
