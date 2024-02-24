@@ -7,6 +7,10 @@ print(3*2+(5-2)**4/2-2%3)
 # Round up the float
 print(round(10/3,2))
 
+# foramt
+x = 100 / 3 
+print("{:.2f}".format(x))
+
 
 
 # f-strings
