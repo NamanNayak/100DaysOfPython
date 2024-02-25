@@ -37,6 +37,3 @@ if(cheese == 'Y'):
     else:
         price +=2
 print(f"Your total bill is : $ {price}")
-
-
-
